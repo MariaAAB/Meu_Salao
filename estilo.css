@@ -1,0 +1,51 @@
+#home{
+    background: #e5e5e5;
+    color: white;
+}
+.caixa{
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+footer p a {
+ margin: 5px 15px;
+ 
+}
+
+
+.table{
+background: beige;
+}
+thead tr th{
+    color:#F5A9F2 ;
+}
+
+tbody tr td{
+    color: #B4045F;
+}
+
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+fieldset{
+   margin: 1em 0;
+    padding: 1em;
+    border: 1px solid #ccc;
+    background: #f8f8f8;
+}
+legend{
+    font-weight: bold;
+}
+label{
+    display: block;
+    cursor: pointer;
+}
+input{
+    width: 20em;
+   
+}
+textarea{
+    width: 20em;
+    height: 10em;
+}
